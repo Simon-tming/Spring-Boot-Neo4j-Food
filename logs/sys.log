@@ -1,0 +1,15 @@
+2021-06-16 13:42:00,197 INFO (StartupInfoLogger.java:50)- Starting App on DESKTOP-JB3J658 with PID 13392 (started by 14045 in C:\Users\14045\Desktop\graduation project\code\Spring-Boot-neo4j-food)
+2021-06-16 13:42:00,207 INFO (SpringApplication.java:675)- No active profile set, falling back to default profiles: default
+2021-06-16 13:42:36,123 INFO (StartupInfoLogger.java:59)- Started App in 36.926 seconds (JVM running for 37.949)
+2021-06-16 13:43:44,197 INFO (StartupInfoLogger.java:50)- Starting App on DESKTOP-JB3J658 with PID 13580 (started by 14045 in C:\Users\14045\Desktop\graduation project\code\Spring-Boot-neo4j-food)
+2021-06-16 13:43:44,197 INFO (SpringApplication.java:675)- No active profile set, falling back to default profiles: default
+2021-06-16 13:44:07,497 INFO (StartupInfoLogger.java:59)- Started App in 23.86 seconds (JVM running for 24.535)
+2021-06-16 13:46:07,120 INFO (StartupInfoLogger.java:50)- Starting App on DESKTOP-JB3J658 with PID 6208 (started by 14045 in C:\Users\14045\Desktop\graduation project\code\Spring-Boot-neo4j-food)
+2021-06-16 13:46:07,120 INFO (SpringApplication.java:675)- No active profile set, falling back to default profiles: default
+2021-06-16 13:46:31,437 INFO (StartupInfoLogger.java:59)- Started App in 24.827 seconds (JVM running for 25.504)
+2021-06-16 13:46:46,220 INFO (StartupInfoLogger.java:50)- Starting App on DESKTOP-JB3J658 with PID 20516 (started by 14045 in C:\Users\14045\Desktop\graduation project\code\Spring-Boot-neo4j-food)
+2021-06-16 13:46:46,220 INFO (SpringApplication.java:675)- No active profile set, falling back to default profiles: default
+2021-06-16 13:47:13,179 INFO (StartupInfoLogger.java:59)- Started App in 27.55 seconds (JVM running for 28.241)
+2021-06-16 13:51:38,617 INFO (StartupInfoLogger.java:50)- Starting App on DESKTOP-JB3J658 with PID 3860 (started by 14045 in C:\Users\14045\Desktop\graduation project\code\Spring-Boot-neo4j-food)
+2021-06-16 13:51:38,617 INFO (SpringApplication.java:675)- No active profile set, falling back to default profiles: default
+2021-06-16 13:52:01,285 INFO (StartupInfoLogger.java:59)- Started App in 23.198 seconds (JVM running for 23.986)

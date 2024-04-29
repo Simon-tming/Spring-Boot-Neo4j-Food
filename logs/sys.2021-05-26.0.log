@@ -1,0 +1,6 @@
+2021-05-26 08:15:40,770 INFO (StartupInfoLogger.java:50)- Starting App on DESKTOP-JB3J658 with PID 14384 (started by 14045 in C:\Users\14045\Desktop\graduation project\code\Spring-Boot-neo4j-food)
+2021-05-26 08:15:40,781 INFO (SpringApplication.java:675)- No active profile set, falling back to default profiles: default
+2021-05-26 08:16:09,070 INFO (StartupInfoLogger.java:59)- Started App in 29.166 seconds (JVM running for 30.169)
+2021-05-26 09:54:07,088 INFO (StartupInfoLogger.java:50)- Starting App on DESKTOP-JB3J658 with PID 14076 (started by 14045 in C:\Users\14045\Desktop\graduation project\code\Spring-Boot-neo4j-food)
+2021-05-26 09:54:07,098 INFO (SpringApplication.java:675)- No active profile set, falling back to default profiles: default
+2021-05-26 09:54:39,653 INFO (StartupInfoLogger.java:59)- Started App in 34.067 seconds (JVM running for 36.121)
